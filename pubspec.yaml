@@ -1,7 +1,7 @@
 name: cap
 description: A simple capitalization tool.
-version: 1.0.0
-repository: https://github.com/noudzandbergen/cap
+version: 1.0.1
+repository: https://github.com/noudzandbergen/cap_dart
 
 environment:
   sdk: ^3.4.4
